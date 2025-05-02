@@ -22,7 +22,7 @@ clone and run it locally 👇
 ### 1. Clone the repo
 
 ```bash
-git clone https://github.com/YOUR_USERNAME/vue-counter-app.git
+git clone https://github.com/NurmuhammadMirov/counter-app.git
 cd counter-app
 ```
 ### 2. Install dependencies
